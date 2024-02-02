@@ -1,4 +1,4 @@
-package com.javabook.chapter_01;
+package com.javabook.chapter_01.exeamples;
 
 /*
     Простая программа на Java.
