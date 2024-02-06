@@ -1,10 +1,12 @@
-package com.javabook.chapter_01.exeamples;
+package com.javabook.chapter_01.listings;
 
-public class Example_06_BlockDemo {
     /*
         Демонстрация использования блока кода.
         Назовите этот файл BlockDemo.java.
     */
+
+public class $_06_listing_Block {
+
     public static void main(String[] args) {
         double i, j, d;
 

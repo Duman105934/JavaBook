@@ -1,11 +1,11 @@
-package com.javabook.chapter_01.exeamples;
+package com.javabook.chapter_01.listings;
 
-public class Example_02 {
+    /*
+        Демонстрация использования переменных
+        Назовите этот файл Example2.java.
+    */
 
-/*
-    Демонстрация использования переменных
-    Назовите этот файл Example2.java.
-*/
+public class $_02_listing {
 
     public static void main(String[] args) {
         int myVar1; // объявление переменной

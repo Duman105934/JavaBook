@@ -1,6 +1,7 @@
 package com.javabook.chapter_01.tasks;
 
-public class GalToLit {
+public class $_01_GalToLit {
+
     public static void main(String[] args) {
 
         double gallons; // хранит количество галлонов

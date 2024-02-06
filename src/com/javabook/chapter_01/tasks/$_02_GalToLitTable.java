@@ -6,7 +6,8 @@ package com.javabook.chapter_01.tasks;
         Назовите этот файл GalToLitTable.java.
     */
 
-class GalToLitTable {
+class $_02_GalToLitTable {
+
     public static void main(String[] args){
         double gallons, litters;
         int counter;

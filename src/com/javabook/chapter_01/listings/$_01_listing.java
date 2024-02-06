@@ -1,11 +1,11 @@
-package com.javabook.chapter_01.exeamples;
+package com.javabook.chapter_01.listings;
 
-/*
-    Простая программа на Java.
-    Назовите этот файл Example.java.
-*/
+    /*
+        Простая программа на Java.
+        Назовите этот файл Example.java.
+    */
 
-class Example_01 {
+class $_01_listing {
 
     // Программа на Java начинается с вызова main().
     public static void main(String[] args) {

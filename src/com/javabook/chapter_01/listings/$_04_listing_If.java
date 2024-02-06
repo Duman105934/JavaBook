@@ -1,10 +1,11 @@
-package com.javabook.chapter_01.exeamples;
+package com.javabook.chapter_01.listings;
 
-public class Exemple_04_IfDemo {
     /*
         Демонстрация использования оператора if.
         Назовите этот файл IfDemo.java.
     */
+
+public class $_04_listing_If {
 
     public static void main(String[] args) {
         int a, b, c;

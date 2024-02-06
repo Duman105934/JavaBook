@@ -1,6 +1,7 @@
-package com.javabook.chapter_01.exeamples;
+package com.javabook.chapter_01.listings;
 
-public class Example_05_ForDemo {
+public class $_05_listing_For {
+
     public static void main(String[] args) {
         int count;
 

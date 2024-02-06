@@ -1,6 +1,7 @@
 package com.javabook.chapter_01.tasks;
 
-public class WeightOnTheMoon {
+public class $_03_WeightOnTheMoon {
+
     public static void main(String[] args){
         double coefficient;
         int weight;

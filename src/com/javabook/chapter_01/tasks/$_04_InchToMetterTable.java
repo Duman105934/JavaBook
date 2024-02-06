@@ -1,6 +1,7 @@
 package com.javabook.chapter_01.tasks;
 
-class InchToMetterTable {
+class $_04_InchToMetterTable {
+
     public static void main(String[] args){
         double inch, metter;
         int counter;
