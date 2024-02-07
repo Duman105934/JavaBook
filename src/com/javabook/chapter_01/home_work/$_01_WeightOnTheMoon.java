@@ -1,6 +1,6 @@
-package com.javabook.chapter_01.tasks;
+package com.javabook.chapter_01.home_work;
 
-public class $_03_WeightOnTheMoon {
+public class $_01_WeightOnTheMoon {
 
     public static void main(String[] args){
         double coefficient;

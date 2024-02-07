@@ -1,6 +1,6 @@
-package com.javabook.chapter_01.tasks;
+package com.javabook.chapter_01.home_work;
 
-class $_04_InchToMetterTable {
+class $_02_InchToMetterTable {
 
     public static void main(String[] args){
         double inch, metter;
