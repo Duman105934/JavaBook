@@ -6,7 +6,7 @@ package com.javabook.chapter_02.tasks;
     */
 
 // моя версия
-public class $_01_Sound_2 {
+public class $_02_Sound_2 {
 
     public static void main(String[] args) {
     int speed;
